@@ -16,10 +16,10 @@ npm-debug.log
 /.nyc_output
 
 # source
-dist
+#dist
 
 # schematics
-schematics/install/*.js
-schematics/install/*.d.ts
-schematics/install/express-engine/*.js
-schematics/install/express-engine/*.d.ts
+#schematics/install/*.js
+#schematics/install/*.d.ts
+#schematics/install/express-engine/*.js
+#schematics/install/express-engine/*.d.ts
